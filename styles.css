@@ -1,1 +1,78 @@
-/*  your css code here. If applicable */
+#table-1 {
+  width: 100%;
+  border: 1px solid #000;
+}
+
+.Cells {
+	padding : 1px;
+  height: 20px;
+  border: 1px solid #000;
+}
+#t11 {
+  border: 1px solid #000;
+  text-align: left;
+}
+#t12 {
+  border: 1px solid #000;
+  text-align: center;
+}
+#t13 {
+  border: 1px solid #000;
+  text-align: right;
+}
+
+#table-2 {
+  margin-top: 50px;
+  width: 100%;
+  border: 1px solid #000;
+}
+
+/* #t21 {
+  border: 1px solid #000;
+}
+
+#t22 {
+  border: 1px solid #000;
+  text-align: center;
+}
+#t23 {
+  border: 1px solid #000;
+  text-align: right;
+}
+#t24 {
+  border: 1px solid #000;
+  text-align: right;
+}
+#t25 {
+  border: 1px solid #000;
+  text-align: right;
+}
+#t26 {
+  border: 1px solid #000;
+} */
+
+#table-2 {
+  margin-top: 50px;
+  width: 100%;
+  border: 1px solid #000;
+}
+
+#table-3 {
+  margin-top: 50px;
+  width: 100%;
+  border: 1px solid #000;
+}
+
+#t-image{
+  width: 50px;
+  height: auto;
+  text-align: center;
+  border: 1px solid #000;
+}
+
+#t33{
+  background-color: blue;
+}
+#t31{
+  background-color: green;
+}
